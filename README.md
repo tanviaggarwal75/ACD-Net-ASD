@@ -167,26 +167,12 @@ Users should independently obtain the ABIDE PCP dataset and generate functional 
 
 ---
 
-## Citation
-
-If you use this repository, please cite:
-
-```bibtex
-@article{aggarwal2026acdnet,
-  title={Adaptive Channel-Aware Deep Learning for Autism Spectrum Disorder Classification Using rs-fMRI Connectomes},
-  author={Aggarwal, Tanvi and Kumari, Ritika},
-  year={2026}
-}
-```
-
----
-
 ## Authors
 
 **Tanvi Aggarwal**
 Department of Artificial Intelligence and Data Sciences
 Indira Gandhi Delhi Technical University for Women (IGDTUW)
 
-**Ritika Kumari**
+**Dr. Ritika Kumari**
 Department of Artificial Intelligence and Data Sciences
 Indira Gandhi Delhi Technical University for Women (IGDTUW)
