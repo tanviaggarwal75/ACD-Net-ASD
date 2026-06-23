@@ -9,6 +9,15 @@ The proposed architecture combines Convolutional Neural Networks (CNNs) with a c
 The repository also includes a **CNN + Multi-Head Attention (CNN-MHA)** baseline model used for comparative evaluation.
 
 ---
+## Associated Manuscript
+
+This repository contains the official implementation of the manuscript:
+
+# "ACD-Net: Adaptive Channel-Aware Deep Learning for fMRI Connectome Analysis in Autism Spectrum Disorder Classification"
+
+currently under review at The Visual Computer.
+
+The code provided in this repository corresponds directly to the experiments, model architectures, and evaluation procedures described in the manuscript. Researchers using this repository are encouraged to cite the associated article upon publication.
 
 ## Dataset
 
