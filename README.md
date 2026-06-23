@@ -1,4 +1,4 @@
-# ACD-Net: Adaptive Channel-Aware Deep Learning for Autism Spectrum Disorder Classification Using rs-fMRI Connectomes
+# ACD-Net: Adaptive Channel-Aware Deep Learning for fMRI Connectome Analysis in Autism Spectrum Disorder Classification
 
 ## Overview
 
