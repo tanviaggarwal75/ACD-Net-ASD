@@ -13,7 +13,7 @@ The repository also includes a **CNN + Multi-Head Attention (CNN-MHA)** baseline
 
 This repository contains the official implementation of the manuscript:
 
-# "ACD-Net: Adaptive Channel-Aware Deep Learning for fMRI Connectome Analysis in Autism Spectrum Disorder Classification"
+### "ACD-Net: Adaptive Channel-Aware Deep Learning for fMRI Connectome Analysis in Autism Spectrum Disorder Classification"
 
 currently under review at The Visual Computer.
 
